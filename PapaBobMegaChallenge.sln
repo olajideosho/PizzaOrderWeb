@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapaBobMegaChallenge.Presentation", "PapaBobMegaChallenge\PapaBobMegaChallenge.Presentation.csproj", "{EDFDC3C4-A08E-40AD-930B-2D65E863FD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapaBobMegaChallenge.Domain", "PapaBobMegaChallenge.Domain\PapaBobMegaChallenge.Domain.csproj", "{B9470513-8C90-4883-92F7-654F84893BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapaBobMegaChallenge.Persistence", "PapaBobMegaChallenge.Persistence\PapaBobMegaChallenge.Persistence.csproj", "{3BA45709-A45B-48F8-8470-D6638574D9D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapaBobMegaChallenge.DTO", "PapaBobMegaChallenge.DTO\PapaBobMegaChallenge.DTO.csproj", "{5F4AE5FD-EE59-44F9-8F9C-5F985A9E6910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFDC3C4-A08E-40AD-930B-2D65E863FD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFDC3C4-A08E-40AD-930B-2D65E863FD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFDC3C4-A08E-40AD-930B-2D65E863FD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFDC3C4-A08E-40AD-930B-2D65E863FD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9470513-8C90-4883-92F7-654F84893BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9470513-8C90-4883-92F7-654F84893BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9470513-8C90-4883-92F7-654F84893BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9470513-8C90-4883-92F7-654F84893BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA45709-A45B-48F8-8470-D6638574D9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA45709-A45B-48F8-8470-D6638574D9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA45709-A45B-48F8-8470-D6638574D9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA45709-A45B-48F8-8470-D6638574D9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4AE5FD-EE59-44F9-8F9C-5F985A9E6910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4AE5FD-EE59-44F9-8F9C-5F985A9E6910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4AE5FD-EE59-44F9-8F9C-5F985A9E6910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4AE5FD-EE59-44F9-8F9C-5F985A9E6910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
